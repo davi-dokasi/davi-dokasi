@@ -3,11 +3,14 @@
 ### I am a Statistics student at UFRGS (Universidade Federal do Rio Grande do Sul) and passionate about data science!
 
 ###
+<div align="center">
+  <img align="center" height="150" src="https://media1.tenor.com/m/u6LXOuXGKlEAAAAC/computing-confused.gif"/>
+</div>
 
 <div align="center">
-  <img align="" height="150" src="https://media1.tenor.com/m/u6LXOuXGKlEAAAAC/computing-confused.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=davi-dokasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davi-dokasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/davi-dokasi">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-dokasi&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-dokasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
