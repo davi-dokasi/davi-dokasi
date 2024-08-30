@@ -35,7 +35,7 @@
 
 #### Here you can find my Linkedin and my personal website!
 <div id="links", align="left">
-  <a href="www.linkedin.com/in/davi-augusto-silva/">
+  <a href="www.linkedin.com/in/davi-augusto-silva">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://daviafsilva.netlify.app//">
