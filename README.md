@@ -44,9 +44,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/davi-dokasi/davi-dokasi/blob/output/github-contribution-grid-snake.svg)
 ###
